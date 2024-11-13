@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daiane-Siqueira.
-- 👀 I’m interested in musics and house projects.
+- 👀 I’m interested in musics and architecture projects.
 - 🌱 I’m currently learning programming in Python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me I'll let you know soon!
